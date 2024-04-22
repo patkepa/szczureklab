@@ -161,40 +161,66 @@
                     Nasza druzyna
                 </h2>
             </div>
-
+    
             <div class="mx-auto text-gray-900 max-w-7xl dark:text-gray-50 md:px-1.5">
                 <div class="px-4 text-gray-900 dark:text-white not-prose dark:text-zinc-200">
                     <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
-                        {{ range (.Paginator 3).Pages }}
+                        <!-- Static example content to replace Hugo dynamic content -->
                         <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                            <a href="{{.Permalink}}">
-                                {{ with .Params.featured_image }}
-                                {{ with resources.Get . }}
-                                {{ $postimage := (.Resize "500x webp q90").RelPermalink }}
-                                <img src="{{ $postimage }}" class="object-fill overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" alt="{{ .Title }}" />
-
-                                {{ end }}
-                                {{ end }}
+                            <a href="#">
+                                <img src="images/pages/profesor.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" alt="profesor" />
                             </a>
                             <div class="p-6">
                                 <div class="flex-1">
-                                    <a href="{{.Permalink}}" class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
-                                        {{ .Title }}
+                                    <a href="#" class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                                        Profesor
                                     </a>
                                     <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                                        {{ .Params.summary }}
+                                       ... 
                                     </p>
-                                </div>
-                                
+                                </div>    
                             </div>
                         </div>
-                        {{ end }}
+
+                        <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                            <a href="#">
+                                <img src="images/pages/kamila.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" alt="kamila" />
+                            </a>
+                            <div class="p-6">
+                                <div class="flex-1">
+                                    <a href="#" class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                                        Kamila Bochenek
+                                    </a>
+                                    <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                                        ...
+                                    </p>
+                                </div>    
+                            </div>
+                        </div>
+
+                        <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                            <a href="#">
+                                <img src="images/pages/kacper.webp" class="object-fill overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" alt="kacper" />
+                            </a>
+                            <div class="p-6">
+                                <div class="flex-1">
+                                    <a href="#" class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
+                                        Kacper Osiadły
+                                    </a>
+                                    <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                                        ...
+                                    </p>
+                                </div>    
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
+    
     <!-- Blog section -->
     <div class="relative px-1 pt-8 pb-4 bg-transparent lg:px-8 lg:pt-12 lg:mb-4 md:mt-12">
         <div class="absolute inset-0">

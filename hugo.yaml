@@ -66,6 +66,16 @@ params:
     content:
       - text: "W Szczurek Lab zajmujemy się badaniem i rozwijaniem humanitarnych metod testowania na zwierzętach laboratoryjnych. Naszym głównym celem jest minimalizowanie cierpienia i stresu zwierząt podczas prowadzenia niezbędnych badań naukowych. Pracujemy nad innowacyjnymi rozwiązaniami, które mogą zastąpić tradycyjne metody testów z wykorzystaniem zwierząt, takie jak technologie in vitro, modelowanie komputerowe i wykorzystanie sztucznej inteligencji do symulacji reakcji biologicznych. Staramy się również promować i rozwijać metody, które wymagają mniejszej liczby zwierząt i pozwalają na wielokrotne wykorzystanie danych z pojedynczych testów, aby maksymalnie zmniejszyć ogólną liczbę zwierząt wykorzystywanych w badaniach."
   
+  p3:
+    img1: "images/authors/profesor.jpg"
+    img2: ../assets/images/global/authors/kamila.jpg
+    img3: ../assets/images/global/authors/kacper.jpg
+    name1: Prof
+    name2: Kamila Bochenek
+    name3: Kacper Osiadły
+    sub1: Dobry byk
+    sub2:
+    sub3:
   p4:
     heading: "Zobacz na naszym blogu"
     content:
