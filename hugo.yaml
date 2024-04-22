@@ -57,25 +57,16 @@ params:
 
   p1:
     heading: "Kim jesteśmy?"
-    image: "images/pages/1.webp"
+    image: "images/pages/rat-cute.webp"
     content:
-      - text: "W Szczurek Lab zajmujemy się badaniem i rozwijaniem humanitarnych metod testowania na zwierzętach laboratoryjnych. Naszym głównym celem jest minimalizowanie cierpienia i stresu zwierząt podczas prowadzenia niezbędnych badań naukowych. Pracujemy nad innowacyjnymi rozwiązaniami, które mogą zastąpić tradycyjne metody testów z wykorzystaniem zwierząt, takie jak technologie in vitro, modelowanie komputerowe i wykorzystanie sztucznej inteligencji do symulacji reakcji biologicznych. Staramy się również promować i rozwijać metody, które wymagają mniejszej liczby zwierząt i pozwalają na wielokrotne wykorzystanie danych z pojedynczych testów, aby maksymalnie zmniejszyć ogólną liczbę zwierząt wykorzystywanych w badaniach."
+      - text: "Szczurek Lab to koło naukowe działające przy Uniwersytecie Rzeszowskim, które skupia się na promowaniu i rozwijaniu innowacyjnych metod badawczych. Naszym głównym celem jest opracowywanie rozwiązań umożliwiających bardziej humanitarne podejście do testów przeprowadzanych na zwierzętach w laboratoriach. Wierzymy, że nauka i badania mogą postępować z poszanowaniem dla życia i dobrostanu wszystkich istot."
   p2:
     heading: "Nasza misja"
     image: "images/pages/rat.webp"
     content:
-      - text: "W Szczurek Lab zajmujemy się badaniem i rozwijaniem humanitarnych metod testowania na zwierzętach laboratoryjnych. Naszym głównym celem jest minimalizowanie cierpienia i stresu zwierząt podczas prowadzenia niezbędnych badań naukowych. Pracujemy nad innowacyjnymi rozwiązaniami, które mogą zastąpić tradycyjne metody testów z wykorzystaniem zwierząt, takie jak technologie in vitro, modelowanie komputerowe i wykorzystanie sztucznej inteligencji do symulacji reakcji biologicznych. Staramy się również promować i rozwijać metody, które wymagają mniejszej liczby zwierząt i pozwalają na wielokrotne wykorzystanie danych z pojedynczych testów, aby maksymalnie zmniejszyć ogólną liczbę zwierząt wykorzystywanych w badaniach."
-  
-  p3:
-    img1: "images/authors/profesor.jpg"
-    img2: ../assets/images/global/authors/kamila.jpg
-    img3: ../assets/images/global/authors/kacper.jpg
-    name1: Prof
-    name2: Kamila Bochenek
-    name3: Kacper Osiadły
-    sub1: Dobry byk
-    sub2:
-    sub3:
+      - text: "Misja Szczurek Lab polega na prowadzeniu przełomowych badań, które zmieniają sposób przeprowadzania eksperymentów naukowych na zwierzętach. Naszym celem jest ograniczenie, a z czasem eliminacja testów na zwierzętach w laboratoriach."
+      - text: "Rozwój alternatywnych metod badawczych: Poszukujemy nowych, innowacyjnych technologii i procedur, które mogą zastąpić tradycyjne metody testowania na zwierzętach. Skupiamy się na technikach takich jak komputerowe modelowanie, kultury komórkowe, i metody in vitro."
+      - text: "Edukacja i świadomość społeczna: Organizujemy kampanie informacyjne i edukacyjne skierowane do społeczności akademickiej oraz szerszej publiczności, aby podnieść świadomość na temat dostępnych alternatyw dla testów na zwierzętach i zachęcić do ich stosowania."
   p4:
     heading: "Zobacz na naszym blogu"
     content:
