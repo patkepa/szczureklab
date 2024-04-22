@@ -70,7 +70,7 @@ params:
   p4:
     heading: "Zobacz na naszym blogu"
     content:
-      - text: "Najnowsze wieści odnośnie..."
+      - text: "Omówienia tematu wykorzystania zwierząt w laboratoriach"
 
   social_media:
     # github:
