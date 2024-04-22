@@ -8,3 +8,4 @@ featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
 # O nas
+Jesteśmy młodym zespołem...

@@ -25,7 +25,7 @@
 
                     <img srcset="
                         {{- with $thumb.RelPermalink -}}{{.}} 400w{{- end -}}
-                        {{- with $large.RelPermalink -}}, {{.}} 576w{{- end -}}" src="{{ $hero.RelPermalink }}" width="100%" height="" alt="TailBliss Hero" class="w-full max-w-xl mx-auto rounded-lg" />
+                        {{- with $large.RelPermalink -}}, {{.}} 576w{{- end -}}" src="{{ $hero.RelPermalink }}" width="100%" height="" alt="Szczurek maskotka" class="w-full max-w-xl mx-auto rounded-lg" />
                 </div>
             </div>
         </div>
@@ -169,58 +169,63 @@
             <div class="mx-auto text-gray-900 max-w-7xl dark:text-gray-50 md:px-1.5">
                 <div class="px-4 text-gray-900 dark:text-white not-prose dark:text-zinc-200">
                     <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
+
                         <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
                             <a href="https://www.linkedin.com/in/waldemar-grzegorzewski-977a7959?originalSubdomain=pl">
-                                <img src="{{ $profesor.RelPermalink }}" cclass="object-fill overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" alt="profesor" />
+                                <img src="{{ $profesor.RelPermalink }}" class="object-fill overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" alt="profesor" />
                             </a>
-                            <div class="p-6">
-                                <div class="flex-1">
-                                    <p class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200">
-                                        dr hab. prof. UR Waldemar Grzegorzewski
-                                    </p>
-                                    <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                                        <a href="mailto:wgrzegorzewski@ur.edu.pl">wgrzegorzewski@ur.edu.pl</a>
-                                    </p>
-                                </div>    
+                            <div class="flex flex-col flex-1 p-6"> <!-- Adjusted for Flexbox column layout and to use available space -->
+                                <p class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200">
+                                    dr hab. prof. UR Waldemar Grzegorzewski
+                                </p>
+                                <p class="mt-5 text-sm text-gray-900 dark:text-gray-300">
+                                    Opiekun
+                                </p>
+                                <div class="flex-1"></div> <!-- Spacer div to push the email to the bottom -->
+                                <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                                    <a href="mailto:wgrzegorzewski@ur.edu.pl">wgrzegorzewski@ur.edu.pl</a>
+                                </p>
                             </div>
                         </div>
+                        
 
                         <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
                             <a href="https://www.linkedin.com/in/kamila-bochenek/">
-                               
-                                    <img src="{{ $kamila.RelPermalink }}" class="object-fill overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" alt="kamila" />
-                        
-                              </a>
-                            <div class="p-6">
-                                <div class="flex-1">
-                                    <p class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200">
-                                        Kamila Bochenek
-                                    </p>
-                                    <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                                        <a href="mailto:kbochenek@protonmail.com">kbochenek@protonmail.com</a>
-
-
-                                        
-                                    </p>
-                                </div>    
+                                <img src="{{ $kamila.RelPermalink }}" class="object-fill overflow-hidden rounded-t-lg" loading="lazy" alt="Kamila" />
+                            </a>
+                            <div class="flex flex-col flex-1 p-6"> <!-- Ensuring this div takes all available space -->
+                                <p class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200">
+                                    Kamila Bochenek
+                                </p>
+                                <p class="mt-5 text-sm text-gray-900 dark:text-gray-300">
+                                    Prezes
+                                </p>
+                                <div class="flex-1"></div> <!-- Spacer to push content to the bottom -->
+                                <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                                    <a href="mailto:kbochenek@protonmail.com">kbochenek@protonmail.com</a>
+                                </p>
                             </div>
                         </div>
+                        
 
                         <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
-                            <a href="https://www.linkedin.com/in/ko05/">
-                                <img src="{{ $kacper.RelPermalink }}" cclass="object-fill overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" alt="kacper" />
-                            </a>
-                            <div class="p-6">
-                                <div class="flex-1">
-                                    <p class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200">
-                                        Kacper Osiadły
-                                    </p>
-                                    <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
-                                        <a href="mailto:megalodon.i.wielki@gmail.com">megalodon.i.wielki@gmail.com</a>
-                                    </p>
-                                </div>    
-                            </div>
+                        <a href="https://www.linkedin.com/in/ko05/">
+                            <img src="{{ $kacper.RelPermalink }}" class="object-fill overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" alt="kacper" />
+                        </a>
+                        <div class="flex flex-col flex-1 p-6"> <!-- flex-1 to ensure it takes all available space, flex-col for column layout -->
+                            <p class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200">
+                                Kacper Osiadły
+                            </p>
+                            <p class="mt-5 text-sm text-gray-900 dark:text-gray-300">
+                                Wiceprezes 
+                            </p>
+                            <div class="flex-1"></div> <!-- This div acts as a spacer to push content down -->
+                            <p class="mt-3 text-base text-gray-900 dark:text-gray-300">
+                                <a href="mailto:kacper.osiadly03@gmail.com">kacper.osiadly03@gmail.com</a>
+                            </p>
                         </div>
+                    </div>
+
 
 
                     </div>
@@ -245,23 +250,22 @@
                 </p>
                 {{ end }}
             </div>
-
+    
             <div class="mx-auto text-gray-900 max-w-7xl dark:text-gray-50 md:px-1.5">
                 <div class="px-4 text-gray-900 dark:text-white not-prose dark:text-zinc-200">
                     <div class="grid gap-4 mx-auto mt-12 mb-4 lg:max-w-none md:grid-cols-3">
                         {{ range (.Paginator 3).Pages }}
-                        <div class="flex flex-col overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
+                        <div class="flex flex-col flex-1 overflow-hidden rounded-lg shadow-lg bg-gray-50 dark:bg-gray-900">
                             <a href="{{.Permalink}}">
                                 {{ with .Params.featured_image }}
                                 {{ with resources.Get . }}
                                 {{ $postimage := (.Resize "500x webp q90").RelPermalink }}
                                 <img src="{{ $postimage }}" class="object-fill overflow-hidden rounded-t-lg" width="100%" height="" loading="lazy" alt="{{ .Title }}" />
-
                                 {{ end }}
                                 {{ end }}
                             </a>
-                            <div class="p-6">
-                                <div class="flex-1">
+                            <div class="flex flex-col justify-between flex-1 p-6"> <!-- Ensures that content uses all available space and pushes author info to the bottom -->
+                                <div>
                                     <a href="{{.Permalink}}" class="block mt-2 text-2xl font-black text-gray-900 dark:text-gray-200 hover:text-primary-600 dark:hover:text-primary-500 hover:underline">
                                         {{ .Title }}
                                     </a>
@@ -269,13 +273,6 @@
                                         {{ .Params.summary }}
                                     </p>
                                 </div>
-                                <!-- <div class="flex pt-6 font-medium text-primary-600 dark:text-primary-100 text-md">
-                                    <span class="pr-2 font-black">Tags:</span>
-                                    {{ range $elem_index, $elem_val := (.GetTerms "tags") }}
-                                    {{- if gt $elem_index 0 }}, {{ end -}}
-                                    <a href="{{ .Permalink }}" class="inline-flex items-center rounded-md bg-gray-300 hover:bg-primary-200 hover:text-black px-2.5 py-0.5 text-sm font-medium text-gray-900 ">{{ .LinkTitle }}</a>
-                                    {{- end -}}
-                                </div> -->
                                 <div class="flex items-center mt-6">
                                     <div class="flex-shrink-0">
                                         <span class="sr-only">{{ .Params.author }}</span>
@@ -306,6 +303,7 @@
             </div>
         </div>
     </div>
+    
 
 
 </main>
