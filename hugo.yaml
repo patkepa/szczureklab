@@ -57,7 +57,7 @@ params:
 
   p1:
     heading: "Kim jesteśmy?"
-    image: "images/pages/szczurek-ludzie.webp"
+    image: "images/pages/us.webp"
     content:
       - text: "Szczurek Lab to koło naukowe działające przy Uniwersytecie Rzeszowskim, które skupia się na promowaniu i rozwijaniu innowacyjnych metod badawczych. Naszym głównym celem jest opracowywanie rozwiązań umożliwiających bardziej humanitarne podejście do testów przeprowadzanych na zwierzętach w laboratoriach. Wierzymy, że nauka i badania mogą postępować z poszanowaniem dla życia i dobrostanu wszystkich istot."
   p2:
