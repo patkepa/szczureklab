@@ -62,7 +62,7 @@ params:
       - text: "Szczurek Lab to koło naukowe działające przy Uniwersytecie Rzeszowskim, które skupia się na promowaniu i rozwijaniu innowacyjnych metod badawczych. Naszym głównym celem jest opracowywanie rozwiązań umożliwiających bardziej humanitarne podejście do testów przeprowadzanych na zwierzętach w laboratoriach. Wierzymy, że nauka i badania mogą postępować z poszanowaniem dla życia i dobrostanu wszystkich istot."
   p2:
     heading: "Nasza misja"
-    image: "images/pages/rat.jpeg"
+    image: "images/pages/szczurek1.png"
     content:
       - text: "Misja Szczurek Lab polega na prowadzeniu przełomowych badań, które zmieniają sposób przeprowadzania eksperymentów naukowych na zwierzętach. Naszym celem jest ograniczenie, a z czasem eliminacja testów na zwierzętach w laboratoriach."
       - text: "Rozwój alternatywnych metod badawczych: Poszukujemy nowych, innowacyjnych technologii i procedur, które mogą zastąpić tradycyjne metody testowania na zwierzętach. Skupiamy się na technikach takich jak komputerowe modelowanie, kultury komórkowe, i metody in vitro."
