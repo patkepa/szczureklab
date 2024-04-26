@@ -47,8 +47,9 @@ markup:
 
 params:
   author: Kamila Bochenek, Kacper Osiadły
-  authorimage: ../assets/images/global/main.jpeg
-  og_image: /images/1.jpg
+  authorimage: ../assets/images/global/logo.jpg
+  og_image: /images/pages/2.webp
+  image: /images/pages/2.webp
   moto: "Walczymy o lepsze jutro!"
   description: "Koło naukowe Uniwersytetu Rzeszowskiego"
   quote: "Scientia ad bonum commune"

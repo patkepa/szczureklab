@@ -1,11 +1,11 @@
 ---
-title: "Najgorsze korporacje odnośnie testowania na zwierzetach"
+title: "Zwierzęta w kulturze i sztuce"
 date: 2024-04-21T11:10:36+08:00
 draft: false
 language: pl
-featured_image: ../assets/images/posts/worst-companies.webp
-summary: Które firmy, są znane z najgorszych zasad etycznych?
-description: Najgorsze korporacje odnośnie testowania na zwierzetach
+featured_image: ../assets/images/posts/horse.webp
+summary: Wpływ zwierzat na kształtowanie kultury i sztuki
+description:  lorem ipsum
 author: Kamila Bochenek
 authorimage: ../assets/images/pages/kamila.webp
 categories: Blog
