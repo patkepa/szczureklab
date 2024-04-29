@@ -14,6 +14,8 @@ tags: Blog
 
 Zwierzęta odgrywają wyjątkową rolę w ludzkiej kulturze i sztuce, będąc nie tylko istotami żyjącymi obok nas, ale także bogatym źródłem symboliki, inspiracji i emocji. Przez całą historię ludzkości, od pradawnych malowideł jaskiniowych po nowoczesne instalacje artystyczne, zwierzęta są obecne w sztuce jako metafory siły, władzy, niewinności czy też mroku. Ich uniwersalny apel wynika z głębokiego połączenia człowieka z naturą i instynktownego poczucia jedności z innymi formami życia.
 
+---
+
 ## Przegląd zwierząt w różnych formach sztuki na przestrzeni wieków
 1.	**Prehistoria (ok. 40 000 - 4 000 p.n.e.)**
 
@@ -65,7 +67,7 @@ Zwierzęta odgrywają wyjątkową rolę w ludzkiej kulturze i sztuce, będąc ni
     
     1.	Edwin Landseer, "Monarch of the Glen" (1851) – obraz przedstawiający majestatycznego jelenia, symbolizujący dzikość i naturę.
     2.	Jean-Léon Gérôme, "Lew na śniegu" (ok. 1890) – przedstawiający lwa w niezwykłym dla niego środowisku, co podkreślało egzotykę i dzikość.
-    
+
 8.	**XX i XXI wiek**
     
     Współczesna sztuka często używa zwierząt do komentowania kwestii społecznych, politycznych i ekologicznych. Artysty jak Damien Hirst czy Banksy używają zwierzęcych motywów do wywoływania dyskusji na temat konsumpcjonizmu, praw zwierząt i środowiskowych kryzysów.
@@ -76,6 +78,8 @@ Zwierzęta odgrywają wyjątkową rolę w ludzkiej kulturze i sztuce, będąc ni
     4.	Jeff Koons, "Balloon Dog" (1994-2000) – seria rzeźb z chromowanego stali nierdzewnej, przedstawiających balonowe zwierzęta, które stały się ikoną współczesnej popkultury.
     5.	Banksy, "Four Monkeys" - Mural przedstawiający cztery małpy w różnych pozach, które trzymają tablicę z napisem "Laugh now, but one day we'll be in charge". Praca ta ironicznie komentuje ewolucję społeczną i polityczną, stawiając zwierzęta w roli nadchodzących władców.
     6.	Sayaka Ganz, "Reclaimed Creations" - Ganz tworzy dynamiczne rzeźby zwierząt z odrzuconych i zrecyklingowanych przedmiotów plastikowych, zwracając uwagę na nadmierne zużycie materiałów i ich wpływ na środowisko naturalne.
+
+---
 
 ## Zwierzęta w literaturze
 1. Zwierzęta farmy" George’a Orwella
@@ -97,6 +101,8 @@ Zwierzęta odgrywają wyjątkową rolę w ludzkiej kulturze i sztuce, będąc ni
 
     Powiastka filozoficzna opowiadająca o podróży małego księcia przez różne planety, gdzie spotyka różne postaci, w tym lis, który odgrywa kluczową rolę. Lis uczy Małego Księcia o istocie miłości i przywiązania, stając się symbolem głębokiego, ale trudnego do wyrażenia uczucia.  Postać lisa oraz jego relacja z Małym Księciem ilustrują ważne idee dotyczące prawdziwej przyjaźni, miłości i poświęcenia, które są kontrastowane z często pustymi, materialistycznymi dążeniami dorosłych.
 
+---
+
 ## Zwierzęta w filmie i animacji:
 Jak różne kultury przedstawiają zwierzęta w mediach wizualnych?
 - **Japonia** W japońskiej animacji, takiej jak filmy Studio Ghibli, zwierzęta często są przedstawiane jako duchowe istoty z silnymi związkami z naturą. Przykłady takie jak "Mój sąsiad Totoro" czy "Księżniczka Mononoke" pokazują zwierzęta jako istoty mądre i magiczne, które pomagają bohaterom w ich duchowym rozwoju.
@@ -117,6 +123,7 @@ Przykłady produkcji:
     -	"El delfín: La historia de un soñador" (2009, reż. Eduardo Schuldt) - Peruwiańska animacja o młodym delfinie, który wyrusza na poszukiwanie prawdziwego celu swojego życia.
     -	"Ainbo: Spirit of the Amazon" (2021, reż. Richard Claus, Jose Zelada) - Historia młodej dziewczyny z Amazonii i jej zwierzęcych przyjaciół, którzy starają się ocalić swój dom przed zagrożeniami zewnętrznymi.
 
+---
 
 ##### Popularne wzory zwierzęce w modzie:
 1.	Wzór leoparda
@@ -128,6 +135,7 @@ Przykłady produkcji:
 7.	Wzór pawia
 8.	Wzór szopa
 
+---
 
 ## Firmy znane z wyjątkowego wykorzystania zwierzęcych wzorów
 
@@ -141,6 +149,7 @@ Przykłady produkcji:
 
 - **Saint Laurent** dawniej znane jako Yves Saint Laurent, zostało założone w 1961 roku przez Yvesa Saint Laurenta. Marka jest znana z rewolucjonizowania kobiecej mody wprowadzeniem takich elementów jak smokingi dla kobiet. Saint Laurent wykorzystuje zwierzęce wzory, aby dodać odrobinę buntu i prowokacji do swoich kolekcji. Wzory takie jak leopard czy zebra są często używane w stylizacjach, które podkreślają siłę i niezależność.
 
+---
 
 ## Znaczenie zwierzęcych motywów w kulturze i tradycji
 - Smoki w kulturze chińskiej symbolizują moc i autorytet, a ich obrazy są powszechnie używane do zdobienia pałaców i świątyń, aby przyciągnąć szczęście i pomyślność.
@@ -153,8 +162,3 @@ Motywy zwierzęce w kulturze japońskiej karpie koi są popularnym motywem w Jap
 
 --- 
 Podsumowując, przyszłość zwierząt w kulturze i sztuce jest pełna możliwości, ale także wyzwań. W miarę jak nasze społeczeństwo staje się coraz bardziej świadome i wrażliwe na kwestie etyczne, sztuka i kultura mogą odegrać kluczową rolę w kształtowaniu tego, jak postrzegamy i traktujemy naszych zwierzęcych towarzyszy. Zapewne przyszłe pokolenia będą świadkami dalszej ewolucji tej fascynującej symbiozy między człowiekiem a naturą, która zawsze była esencją naszej twórczości i wyobraźni.
-
-
-
-
-
