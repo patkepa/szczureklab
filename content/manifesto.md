@@ -4,6 +4,7 @@ date: 2024-11-02T11:10:36+08:00
 draft: false
 language: pl
 description: Resillient Engineering Manifesto
+summary: Our views on current state of technology
 featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
